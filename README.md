@@ -3,23 +3,26 @@
 Start with a main function and make each problem a function. Call those functions from your main function.
 
 ### Problem 1:
-Dinner Class
-Create a Dinner class with attributes dishName, protein, veggie, and price. Create a function that prints each attribute. Create an object of the class in your main function.
+Create a Dinner class with attributes dishName, protein, veggie, and price. In the class, create a function that will print all attributes. Create an object of Dinner in your problem1 function and print all of it's attributes.
 
 ### Problem 2:
 ##### We will keep having this problem until EVERYONE gets it right without help
-Create a function that has a loop that quits with ‘q’. If the user doesn't enter 'q', ask them to input another string.
+Create a function that has a loop that quits with ‘0’. If the user doesn't enter '0', ask them to input another string.
 
 ### Problem 3:
-Exercise 31
-Create a program that creates an account with the balance of 100.0, deposits 20.0 and prints the account. Note! do all the steps described in the exercise exactly in the described order!
+Create an Account class with attributes: name, balance, and creationDate. The class should also have a updateBalance function that can update the balance of the object and a printNameAndBalance function that will print the name and balance of an object.
 
-Exercise 32
-Creates an account named "Matt's account" with the balance of 1000
-Creates an account named "My account" with the balance of 0
-Withdraws 100.0 from Matt's account
-Deposits 100.0 to My account
-Prints both accounts
+a) Create an account named "Kenn" with $50
+
+b) Create an account named "Kevin" with $95
+
+c) Print the Kenn account and the Kevin acccount
+
+c) Add $15 to the Kenn account through the function
+
+d) Remove $10 from the Kevin account
+
+e) Print the Kenn account and the Kevin acccount
 
 
 ## Problem 4:
